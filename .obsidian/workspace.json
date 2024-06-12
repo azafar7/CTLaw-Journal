@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "43772f31c4d66a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d830543d36daee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "399fb526fc1b5e13",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59e64ef96521db20",
+    "type": "split",
+    "children": [
+      {
+        "id": "90934553a0eb9cf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8cca336bc7340e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e9f449d161cd8c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "90922cd460ab9d49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bb800f70f2dbcda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2308e61f03c63d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "7431e9b5eb314ef7",
+        "type": "tabs",
+        "dimension": 46.279761904761905,
+        "children": [
+          {
+            "id": "b71c4706bb9d7991",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1351b7a4673776d7",
+        "type": "tabs",
+        "dimension": 53.720238095238095,
+        "children": [
+          {
+            "id": "3ff371deb690a196",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "1750215d7a13c5a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:Day Planner: Show the Week Planner": false,
+      "hide-folders:Show hidden folders": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "90922cd460ab9d49",
+  "lastOpenFiles": [
+  ]
+}
