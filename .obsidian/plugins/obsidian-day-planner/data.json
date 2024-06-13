@@ -25,7 +25,7 @@
   "showNext": true,
   "pluginVersion": "0.20.4",
   "showCompletedTasks": true,
-  "showSubtasksInTaskBlocks": true,
+  "showSubtasksInTaskBlocks": false,
   "icals": [],
   "colorOverrides": [],
   "editMode": "simple",
