@@ -16,7 +16,7 @@
   "showbookmarkedFiles": true,
   "showRecentFiles": false,
   "maxRecentFiles": 5,
-  "storeRecentFile": true,
+  "storeRecentFile": false,
   "showPath": true,
   "selectionHighlight": "default",
   "showShortcuts": true,
