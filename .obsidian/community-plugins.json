@@ -8,7 +8,6 @@
   "editing-toolbar",
   "home-tab",
   "obsidian-excalidraw-plugin",
-  "dataview",
   "table-editor-obsidian",
   "calendar",
   "cmdr",
@@ -16,5 +15,6 @@
   "periodic-notes",
   "surfing",
   "obsidian-plugin-update-tracker",
-  "hide-folders"
+  "hide-folders",
+  "dataview"
 ]

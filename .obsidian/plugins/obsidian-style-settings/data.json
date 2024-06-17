@@ -3,7 +3,7 @@
   "minimal-style@@metadata-add-property-off": false,
   "minimal-style@@metadata-icons-off": false,
   "minimal-style@@sidebar-tabs-names": "tab-names-off",
-  "minimal-style@@ribbon-style": "ribbon-bottom-left-hover",
+  "minimal-style@@ribbon-style": "ribbon-hidden",
   "minimal-style@@tabs-style": "tabs-plain-square",
   "minimal-style@@minimal-unstyled-tags": false,
   "minimal-style@@ui1@@light": "#64869594",
