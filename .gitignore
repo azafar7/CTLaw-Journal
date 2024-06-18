@@ -3,3 +3,4 @@
 .DS_Store
 *.ini
 .autogit/
+.obsidian/workspace.json
