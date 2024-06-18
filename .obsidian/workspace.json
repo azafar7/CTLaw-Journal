@@ -143,9 +143,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "cmdr:Day Planner: Show the Week Planner": false,
-      "periodic-notes:Open today": false,
       "surfing:surfing-bookmark-manager": false,
-      "hide-folders:Show hidden folders": false
+      "hide-folders:Show hidden folders": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "566cfac7fb1c1db6",

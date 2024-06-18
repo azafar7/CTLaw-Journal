@@ -17,5 +17,7 @@
   "obsidian-plugin-update-tracker",
   "hide-folders",
   "dataview",
-  "statusbar-organizer"
+  "statusbar-organizer",
+  "omnisearch",
+  "text-extractor"
 ]
