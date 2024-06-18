@@ -28,7 +28,7 @@
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
-  "omnisearch": false,
+  "omnisearch": true,
   "showOmnisearchExcerpt": true,
   "font": "\"Times New Roman\""
 }

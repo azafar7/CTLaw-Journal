@@ -98,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1351b7a4673776d7",
@@ -125,13 +124,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,10 +142,11 @@
       "cmdr:Day Planner: Show the Week Planner": false,
       "surfing:surfing-bookmark-manager": false,
       "hide-folders:Show hidden folders": false,
+      "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "566cfac7fb1c1db6",
+  "active": "3ff371deb690a196",
   "lastOpenFiles": [
     "Planner/Daily/06-16-2024.md",
     "Planner/Daily/06-17-2024.md",
